@@ -1,4 +1,8 @@
-# index
+---
+description: >-
+  Grâce à notre WIKI complet et mis à jour régulièrement accédez et partagez des
+  connaissances en lien avec l'hébergement informatique !
+---
 
-WIKI \(FAQ\) collaboratif pour renseigner nos utilisateurs adhérents.
+# Association NordKey - Wiki
 
