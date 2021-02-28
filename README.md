@@ -1,2 +1,4 @@
 # WIKI
-WIKI (FAQ) collaboratif pour renseigner nos utilisateurs adhérents.
+
+WIKI \(FAQ\) collaboratif pour renseigner nos utilisateurs adhérents.
+
